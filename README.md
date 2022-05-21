@@ -16,4 +16,4 @@ Termux-teacher - это скрипт на Python, который  научит �
 
 После установки перейдите в директорию и откройте через Python main.py:
 
-`cd && cd cd termux-teacher-rus && cd termteacher && python main.py`
+`cd && cd termux-teacher-rus && cd termteacher && python main.py`
