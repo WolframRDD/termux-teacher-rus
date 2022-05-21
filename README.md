@@ -12,7 +12,7 @@ Termux-teacher - это скрипт на Python, который  научит �
 
 Откройте Termux и вставьте эту команду:
 
-`apt update && apt upgrade && pkg install python && pkg install python2 && pkg install python3 && pkg install python-pip && pkg install git && pip install progress && git clone `
+`apt update && apt upgrade && pkg install python && pkg install python2 && pkg install python3 && apt install python-pip && pkg install git && pip install progress && git clone `
 
 После установки перейдите в директорию и откройте через Python main.py:
 
